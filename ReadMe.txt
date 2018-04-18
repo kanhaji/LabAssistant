@@ -13,3 +13,9 @@ Regshot (a third party software to compare Window's Registry change before and a
 Telnet (Telnet Server on all host devices and Telnet client on Server Device)
 Nmap on server
 FTP Server on Server Device.
+
+
+
+AUTHORS:
+Krishan Kumar (kk14392r4@gmail.com)
+Sunil Kumar (bishnoi.sunil62@gmail.com)
