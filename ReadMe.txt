@@ -18,4 +18,3 @@ FTP Server on Server Device.
 
 AUTHORS:
 Krishan Kumar (kk14392r4@gmail.com)
-Sunil Kumar (bishnoi.sunil62@gmail.com)
